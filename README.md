@@ -1,9 +1,3 @@
-Update the README.md for the current RMSSD.COM project.
-
-The existing README is outdated and still describes the old React + Vite template. Replace it completely with a concise, professional README describing the current project.
-
-Use this content:
-
 # RMSSD.COM Homepage
 
 A responsive implementation of the RMSSD.COM homepage based on the provided design reference.
@@ -33,3 +27,16 @@ Install dependencies:
 
 ```bash
 npm install
+```
+
+Run locally:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
